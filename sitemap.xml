@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kindrem.gitee.io/about/index.html</loc>
+    <loc>https://kindrem.gitee.io/blog/about/index.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kindrem.gitee.io/tags/index.html</loc>
+    <loc>https://kindrem.gitee.io/blog/tags/index.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kindrem.gitee.io/categories/index.html</loc>
+    <loc>https://kindrem.gitee.io/blog/categories/index.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kindrem.gitee.io/archive/index.html</loc>
+    <loc>https://kindrem.gitee.io/blog/archive/index.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kindrem.gitee.io/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://kindrem.gitee.io/blog/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://kindrem.gitee.io/404.html</loc>
+    <loc>https://kindrem.gitee.io/blog/404.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>https://kindrem.gitee.io/</loc>
+    <loc>https://kindrem.gitee.io/blog</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,14 +53,14 @@
 
   
   <url>
-    <loc>https://kindrem.gitee.io/tags/Hexo/</loc>
+    <loc>https://kindrem.gitee.io/blog/tags/Hexo/</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://kindrem.gitee.io/tags/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://kindrem.gitee.io/blog/tags/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -69,7 +69,7 @@
 
   
   <url>
-    <loc>https://kindrem.gitee.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://kindrem.gitee.io/blog/categories/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
